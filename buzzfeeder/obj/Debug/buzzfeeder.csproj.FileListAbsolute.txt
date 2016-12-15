@@ -1,0 +1,6 @@
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\bin\Debug\buzzfeeder.exe.config
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\obj\Debug\buzzfeeder.csprojResolveAssemblyReference.cache
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\bin\Debug\buzzfeeder.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\bin\Debug\buzzfeeder.pdb
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\obj\Debug\buzzfeeder.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-19\buzzfeeder\buzzfeeder\obj\Debug\buzzfeeder.pdb
